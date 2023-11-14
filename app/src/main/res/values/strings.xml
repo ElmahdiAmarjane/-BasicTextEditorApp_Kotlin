@@ -1,0 +1,17 @@
+<resources>
+    <string name="app_name">SimpleEditText</string>
+    <string-array name="fonts">
+        <item>Anton</item>
+        <item>KdamThmor</item>
+        <item>Raleway</item>
+        <item>VinaSans</item>
+
+    </string-array>
+    <string-array name="numbers">
+        <item>10</item>
+        <item>20</item>
+        <item>30</item>
+        <item>40</item>
+        <item>50</item>
+    </string-array>
+</resources>
